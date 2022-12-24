@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: lightblue ;
+    padding: 10px;
+    }
+header a{
+    border:1px solid white;
+    border-radius:10px;
+    padding:6px;
+    background-color: white;
+    text-decoration: none;
+    color: darkcyan;
+}
+header b {
+    color: blue;
+    font-family: cursive;
+    font-size: 30px;
+}
+header img {
+  border:5px solid white;
+  border-radius: 10px;
+
+}
+main h1 {
+    text-align: center;
+    color: orange;;
+}
+.contacts {
+    border:3px solid gray;
+    padding-left: 15px;
+}
+footer p {
+    border:3px solid gray;
+}
+nav {
+    border:2px solid gray;
+    padding: 3px;
+}
+nav a {
+    text-decoration: none;
+    color:gray;
+    padding:40px;
+    
+}
+.fireworks {
+    border:2px solid coral;
+    background-color: coral;
+    border-radius: 10px;
+    color: white;
+}
+main {
+    margin-right:20px;
+    margin-left:20px;
+}
+h1,h2,h3 {
+    font-family: cursive;
+    color:blue;
+}
+.discoundimg {
+    border:1px solid lightskyblue;
+    border-radius: 10px;
+}
+.contactss{
+    border: 2px solid darkslateblue;
+    border-radius: 10px;
+    text-decoration: none;
+    color:lightgreen;
+    padding: 5px;
+}
+main p {
+font-size: 20px;
+}
